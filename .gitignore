@@ -1,0 +1,13 @@
+#只忽略当前目录下的.idea文件和目录
+/.idea
+
+#忽略所有iml后缀的文件
+*.iml
+
+#忽略所有target文件夹  /*/target
+target
+
+
+#忽略所有test-output文件夹
+/*/test-output
+*.mf
