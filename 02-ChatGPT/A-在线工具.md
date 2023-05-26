@@ -8,7 +8,7 @@
 
 
 # 信息共享ChatGPT试用/体验地址，紧跟AI智能时代：
-https://k.zank.cc/?id=642e859e9aaec5b6a3eb40e2 （本人在用，免费版，若花点小钱体验非常非常流畅！）
+https://bamiai.cc/?id=642e859e9aaec5b6a3eb40e2 （本人在用，免费版，若花点小钱体验非常非常流畅！）
 http://chat.muspimerol.site/  （免注册，体验非常棒）
 http://ai.css8.cn/#/ （免注册，体验非常棒）
 https://xinghuo.xfyun.cn/ （科大讯飞，需注册审核，免费）
